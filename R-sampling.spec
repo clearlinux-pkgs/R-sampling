@@ -4,7 +4,7 @@
 #
 Name     : R-sampling
 Version  : 2.8
-Release  : 10
+Release  : 11
 URL      : https://cran.r-project.org/src/contrib/sampling_2.8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/sampling_2.8.tar.gz
 Summary  : Survey Sampling
