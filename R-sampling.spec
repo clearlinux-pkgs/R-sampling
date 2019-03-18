@@ -4,7 +4,7 @@
 #
 Name     : R-sampling
 Version  : 2.8
-Release  : 16
+Release  : 17
 URL      : https://cran.r-project.org/src/contrib/sampling_2.8.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/sampling_2.8.tar.gz
 Summary  : Survey Sampling
@@ -33,10 +33,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1552946634
+export SOURCE_DATE_EPOCH=1552951844
 
 %install
-export SOURCE_DATE_EPOCH=1552946634
+export SOURCE_DATE_EPOCH=1552951844
 rm -rf %{buildroot}
 export LANG=C
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
