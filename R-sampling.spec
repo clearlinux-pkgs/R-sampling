@@ -4,7 +4,7 @@
 #
 Name     : R-sampling
 Version  : 2.9
-Release  : 37
+Release  : 38
 URL      : https://cran.r-project.org/src/contrib/sampling_2.9.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/sampling_2.9.tar.gz
 Summary  : Survey Sampling
