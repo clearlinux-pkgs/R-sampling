@@ -7,7 +7,7 @@
 #
 Name     : R-sampling
 Version  : 2.10
-Release  : 50
+Release  : 51
 URL      : https://cran.r-project.org/src/contrib/sampling_2.10.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/sampling_2.10.tar.gz
 Summary  : Survey Sampling
